@@ -35,10 +35,10 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 
 ## Screenshots
 
-- **1.Before Cleaning**: <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
-- **2.After Cleaning**: <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
-- **2.1**<img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
-- **2.2**<img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
+- **1.Before Cleaning**: <img src="images/old.PNG" alt="Alt Text" Width="600" heigth="200">
+- **2.After Cleaning**: <img src="images/CLEANED1.PNG" alt="Alt Text" Width="600" heigth="200">
+- **2.1**<img src="images/CLEANED1.2.PNG" alt="Alt Text" Width="600" heigth="200">
+- **2.2**<img src="images/CLEANED1.3.PNG" alt="Alt Text" Width="600" heigth="200">
 
 ## Part 2: **Reshape and Group the Tables**
 ### 1. Duplicate the Raw Data for "Sal By Role Type"
@@ -83,11 +83,11 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 
 ### Screenshots of Queries
 - Insert screenshots for:
-  - <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
-  - <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
-  - <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
-  - <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
+  - **•Sal By Role Type**<img src="roletype.PNG" alt="Alt Text" Width="600" heigth="200">
+  - **•Sal By Role Size**<img src="images/rolesize.PNG" alt="Alt Text" Width="600" heigth="200">
+  - **•Sal By State**<img src="images/state ref.PNG" alt="Alt Text" Width="600" heigth="200">
+  - **•Sal By Size Role Type**<img src="images/roletypesize.PNG" alt="Alt Text" Width="600" heigth="200">
  
   ### Screenshot of Query Dependencies
-  <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
+  •<img src="images/QRYDEPENDENCY.PNG" alt="Alt Text" Width="600" heigth="200">
  
