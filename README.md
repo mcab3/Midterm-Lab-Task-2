@@ -83,7 +83,7 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 
 ### Screenshots of Queries
 - Insert screenshots for:
-  - **•Sal By Role Type**<img src="roletype.PNG" alt="Alt Text" Width="600" heigth="200">
+  - **•Sal By Role Type**<img src="images/roletype.PNG" alt="Alt Text" Width="600" heigth="200">
   - **•Sal By Role Size**<img src="images/rolesize.PNG" alt="Alt Text" Width="600" heigth="200">
   - **•Sal By State**<img src="images/state ref.PNG" alt="Alt Text" Width="600" heigth="200">
   - **•Sal By Size Role Type**<img src="images/roletypesize.PNG" alt="Alt Text" Width="600" heigth="200">
