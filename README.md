@@ -90,6 +90,10 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
  
   ### Screenshot of Query Dependencies
   •<img src="images/QRYDEPENDENCY.PNG" alt="Alt Text" Width="600" heigth="200">
+
+  # Screenshot of M Language
+  •<img src="images/pic.PNG" alt="Alt Text" Width="600" heigth="200">
+
  
 .
 .
